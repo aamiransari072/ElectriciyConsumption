@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+tensorflow
+catboost
+fastapi
+streamlit
+requests
+seaborn
+plotly
+joblib
+-e .
