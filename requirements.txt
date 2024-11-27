@@ -9,4 +9,5 @@ requests
 seaborn
 plotly
 joblib
+uvicorn
 -e .
