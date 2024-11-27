@@ -32,7 +32,7 @@ def hello():
     return {"message": "Endpoint is working"}
 
 # Corrected model path
-model_path = Path(r"D:/Projects/ElectriciyConsumption/artifacts/models/regression_model.pkl")
+model_path = Path(r"D:/Projects/ElectriciyConsumption/src/models/regression_model.pkl")
 
 # Load the model
 try:
