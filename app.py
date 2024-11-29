@@ -7,7 +7,6 @@ from starlette.responses import RedirectResponse
 import uvicorn
 from pathlib import Path
 from datetime import datetime
-from src.ElectriciyConsumption.utils import predict_24_hours,fetch_historical_data,update_database
 from sklearn.preprocessing import MinMaxScaler
 
 
