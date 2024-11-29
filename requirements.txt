@@ -10,4 +10,6 @@ seaborn
 plotly
 joblib
 uvicorn
+mysql-connector-python
+mysql
 -e .
