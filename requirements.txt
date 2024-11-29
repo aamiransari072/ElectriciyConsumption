@@ -12,4 +12,5 @@ joblib
 uvicorn
 mysql-connector-python
 mysql
+scikit-learn
 -e .
