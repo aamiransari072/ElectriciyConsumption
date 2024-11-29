@@ -39,8 +39,8 @@ def hello():
 # Corrected model path
 model_reg_path = Path(r"src/models/regression_model.pkl")
 model_clf_path = Path(r"src/models/Classifer.pkl")
-scaler_path = Path(r"src\models\scaler.pkl")
-encoder_path = Path(r"src\models\encoder.pkl")
+scaler_path = Path(r"src/models/scaler.pkl")
+encoder_path = Path(r"src/models/encoder.pkl")
 
 # Load the model
 try:
